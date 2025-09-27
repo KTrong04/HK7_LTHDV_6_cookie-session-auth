@@ -67,6 +67,8 @@ It includes features: **Register, Login, Protected Route (Profile), and Logout**
    ```bash
    npm install
 2. Chạy app
+   ```bash
    node app.js
-3. Server chạy tại
+4. Server chạy tại
+   ```bash
    http://localhost:3000
